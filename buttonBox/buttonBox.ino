@@ -126,6 +126,7 @@ void setup() {
   clear();
   bot.setHomeParams(250,0,70,0); // set home position, default 250,0,50,0
   bot.setHome();
+
   clear();
 
   
