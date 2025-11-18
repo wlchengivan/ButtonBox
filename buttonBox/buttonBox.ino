@@ -80,7 +80,7 @@ float currentjoint4 = 0;
 ** Returned value:      none
 *********************************************************************************************************/
 //ak
-#define led1 11
+#define led1 13
 
 
 int previousButtonState = HIGH; 
